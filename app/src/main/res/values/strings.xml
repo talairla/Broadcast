@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast</string>
+    <string name="TituloNotificacion">Bluetooth Activado</string>
+    <string name="TextoNotificacion">Un cambio de estado del bluetooth</string>
+</resources>
